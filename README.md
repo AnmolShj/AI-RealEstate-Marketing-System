@@ -97,7 +97,7 @@ AI-RealEstate-Marketing-System/
 
 ## 📝 License
 
-Copyright (c) 2024 Anmol Sharma. All Rights Reserved.
+Copyright (c) 2026 Anmol Sharma. All Rights Reserved.
 
 This project is the exclusive property of Anmol Sharma. Unauthorized copying, distribution, or use of this code without explicit permission is strictly prohibited.
 
