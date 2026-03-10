@@ -1,6 +1,8 @@
 """
 RealEstateAI - AI Marketing Assistant for Realtors
 Main Streamlit Application
+
+Copyright (c) 2024 Anmol Sharma. All Rights Reserved.
 """
 
 import os

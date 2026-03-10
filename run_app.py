@@ -2,6 +2,8 @@
 """
 RealEstateAI - Startup Script
 Run this to launch the AI Real Estate Marketing System
+
+Copyright (c) 2024 Anmol Sharma. All Rights Reserved.
 """
 
 import os
